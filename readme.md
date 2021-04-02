@@ -1,18 +1,22 @@
 # data.js generator for Datavisualization with infovis
 
-This script aims to generate a **data.js** file that is the javascript needed for render relation between objects thanks to the **infovis** javascript library.
+This script aims to generate a **data.js** file that is the javascript data file needed for render an interactive relation graph between objects, based on the **infovis** javascript library.
 
-This script aims to generate **data.js** to be uesed in the datavis project located here :
+This script aims generate **data.js** from a csv file.
 
-[2D_visualization_with_infovis project]('https://github.com/pcardotatgit/2D_visualization_with_infovis)'
+The **data.js** is to be used as the data rendering file in the RGRPAH  Infovis project located here :
 
-## The goal
+[2D_visualization_with_infovis project]('https://github.com/pcardotatgit/2D_visualization_with_infovis)
 
-Let's set up a goal.
+## Let's setup a goal
 
-Our goal is to generate a 2D 360° interactive relation graph tree for the **csv**we have in the **datas** subfolder.
+What can we graph ? That is the question...
 
-Have a look to this file. It contains network information.  It is an inventory of Endpoints connected to switchs within a network.
+Our goal is to generate a 2D 360° interactive relation graph tree for the **data.csv** the **datas** subfolder.
+
+Have a look to this file. 
+
+This on contains network information.  This is a network inventory. It is about of Endpoints connected to switchs within a network.
 
 ```
 My_Network;Office Switch;LAB_SWITCH-1;00:fc:8b:83:69:98;192.168.128.26;Android;00:fc:8b:83:69:98
@@ -29,19 +33,19 @@ We are going to display this file as the following graph
 
 ## The /datas/data.csv file format
 
-Even if it is not obvious, this file describes a tree.
+Even if it is not obvious, this file csv describes a tree.
 
-The first column contains a single information that is a network name. All cells contain the same value.
+The first column ( column_level0 )contains a single information that is a network name. All cells contain the same value.
 
-The second column contains **site names** that belong to this network. 
+The second column ( column_level1 ) contains **site names** that belong to this network. 
 
-The third column contains a **switch names** of switches that belong to every **sites**.  Every sites contains several switches and this is the reasons why we have in the second column, several times in several rows the same site names. But for every of these row we mention in the third column a switch name.
+The third column ( column_level2 ) contains a **switch names** of switches that belong to every **sites**.  Every sites contains several switches and this is the reasons why we have in the second column, several times in several rows the same site names. But for every of these row we mention in the third column a switch name.
 
-The fourth column contains **Mac addresses** of endpoint that are connected to switches.
+The fourth column ( column_level3 ) contains **Mac addresses** of endpoint that are connected to switches.
 
-The fifth column contains the **ip addresses** that are attached to the mac addresses
+The fifth column contains ( column_level4 ) the **ip addresses** that are attached to the mac addresses
 
-The column number six contains the endpoint  operating system **OS**
+The column number ( column_level5 ) six contains the endpoint  operating system **OS**
 
 So this files describes a tree and every branches of this tree can be described as the following path :
 
@@ -49,9 +53,31 @@ Network Name => Site => Switch => Mac Address => Ip Address => OS
 
 You can understand now that if you want to add an additionnal row to the file. you just have to add a new line at the end of the file. A line that respect this above format with all item names. You don't have to take care of the order of the lines.
 
-The **data.csv** file must be located into the **datas** folder
+# Some Rules for creating the data.csv file
 
-## installation
+The **data.csv** file must be located into the **datas** folder.
+
+The first column ( column_level0 ) must contains the trunk name of the tree in every lines ( ex : My_Network )
+
+The second column ( column_level1 ) have to contain the names of the first level of branches attached to the trunk.
+
+And then the third column ( column_level2 ) have to content, for every prior branches, every second level sub branches names.
+
+Etc...Etc...
+
+The script is currently able to manage 5 sub levels of branches ( depth )
+
+Conclusion, if you write a CSV file that respect this format, whatever the data you put into it? then you will generate an interactive RGRAPH.
+
+# Customize csv file parsing
+
+The script allows you to customize the depth ( number of sublevels ) and the column order.
+
+Edit the **1-graph-it.py** file a at the top of the file you can modify the value of the following global variables.
+
+
+
+# installation
 
 Create a working directory and open a CMD console / terminal into it.
 

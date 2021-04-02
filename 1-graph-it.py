@@ -7,11 +7,11 @@ from crayons import red,green,cyan,yellow
 import json
 from pathlib import Path
   
-# depth  = number of levels you want to dig into. the max is 5
+# depth  = number of levels you want to dig into. min = 3, max = 5
 depth=5
 
-# csv schema test 2
-column_level1=1 #floors
+# CSV column indexes  ( between 1 to 5 )  0 not allowed. The first column of the CSV file must contains the trunk's name
+column_level1=1 #floors ( to keep a meaningful information about the mapping between csv column indexes and RGRAPH sublevels
 column_level2=2 #switches
 column_level3=3 #mac_adresses 
 column_level4=4 #ip _addresses
@@ -26,6 +26,7 @@ level5SL=[]
 data_dict={}
 
 '''
+for future uses
 here = Path(__file__).parent.absolute()
 #repository_root = (here / "..").resolve()
 repository_root = (here / ".").resolve()
@@ -186,7 +187,7 @@ if __name__ == "__main__":
                                                                                 dictionary_copy = level5_dict.copy()
                                                                                 level5SL.append(dictionary_copy)
                                                                             '''
-                                                                            NEXT LEVEL
+                                                                            NEXT SUB LEVEL
                                                                             '''
                                                             print (yellow('- level5SL to add to level4_dict children : '+json.dumps(level5SL),bold=True))
                                                             list_copy = level5SL.copy()
