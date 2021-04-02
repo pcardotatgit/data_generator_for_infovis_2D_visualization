@@ -1,0 +1,88 @@
+My_Network;Office Switch;LAB_SWITCH-1;00:fc:8b:83:69:98;192.168.128.26;Android;00:fc:8b:83:69:98
+My_Network;Basement;LAB_SWITCH-2;dc:f3:03:e0:c4:b9;192.168.128.210;Windows 10;dc:f3:03:e0:c4:b9
+My_Network;2nd Floor;LAB_SWITCH-3;ac:13:f4:70:3f:37;192.168.128.223;Apple iPad;ac:13:f4:70:3f:37
+My_Network;Basement;LAB_SWITCH-2;00:fc:8b:2a:83:dd;192.168.128.190;Android;00:fc:8b:2a:83:dd
+My_Network;Office Switch;LAB_SWITCH-4;00:17:88:4b:9c:42;192.168.128.31;Linux;00:17:88:4b:9c:42
+My_Network;2nd Floor;LAB_SWITCH-3;c2:3f:ea:47:7e:ef;192.168.128.12;Apple iPhone;c2:3f:ea:47:7e:ef
+My_Network;2nd Floor;LAB_SWITCH-3;18:b4:30:d2:07:e8;192.168.128.27;Raspberry Pi;18:b4:30:d2:07:e8
+My_Network;Office Switch;LAB_SWITCH-4;e0:33:3d:d0:04:c3;192.168.128.11;Meraki OS;e0:33:3d:d0:04:c3
+My_Network;Basement;LAB_SWITCH-5;24:4b:03:30:af:d1;192.168.128.78;Routers and APs;24:4b:03:30:af:d1
+My_Network;Basement;LAB_SWITCH-2;dc:68:eb:63:3e:ad;192.168.128.49;Nokia;dc:68:eb:63:3e:ad
+My_Network;2nd Floor;LAB_SWITCH-3;44:63:0d:e3:4f:2c;192.168.128.128;Generic Linux;44:63:0d:e3:4f:2c
+My_Network;Office Switch;LAB_SWITCH-1;00:33:da:30:39:73;169.234.118.33;Routers and APs;00:33:da:30:39:73
+My_Network;1st Floor;LAB_SWITCH-6;78:e1:03:2b:be:04;192.168.128.19;Android;78:e1:03:2b:be:04
+My_Network;Basement;LAB_SWITCH-7;a4:77:33:09:16:f9;192.168.128.122;Android;a4:77:33:09:16:f9
+My_Network;1st Floor;LAB_SWITCH-6;28:39:3e:33:b7:76;192.168.128.238;Samung Android;28:39:3e:33:b7:76
+My_Network;2nd Floor;LAB_SWITCH-3;d4:c9:ef:01:18:2b;192.168.128.203;HP Printer;d4:c9:ef:01:18:2b
+My_Network;Office Switch;LAB_SWITCH-4;e0:33:3d:73:03:4d;1.1.1.1;Meraki OS;e0:33:3d:73:03:4d
+My_Network;Basement;LAB_SWITCH-2;18:b4:30:d2:3f:3c;192.168.128.30;Raspberry Pi;18:b4:30:d2:3f:3c
+My_Network;Basement;LAB_SWITCH-5;c0:33:3e:81:37:92;192.168.128.234;Microsoft XBOX;c0:33:3e:81:37:92
+My_Network;Office Switch;LAB_SWITCH-1;32:da:94:83:48:36;192.168.128.169;Apple iPhone;32:da:94:83:48:36
+My_Network;Office Switch;LAB_SWITCH-4;e0:cb:bc:8c:1f:fe;192.168.128.194;Meraki OS;e0:cb:bc:8c:1f:fe
+My_Network;Office Switch;LAB_SWITCH-4;0c:8d:db:b0:c2:dd;192.168.128.4;Meraki OS;0c:8d:db:b0:c2:dd
+My_Network;Office Switch;LAB_SWITCH-4;0c:8d:db:b0:c3:43;192.168.128.3;Meraki OS;0c:8d:db:b0:c3:43
+My_Network;2nd Floor;LAB_SWITCH-3;8c:83:90:bc:24:33;192.168.128.23;Mac OS X 10.14;8c:83:90:bc:24:33
+My_Network;2nd Floor;LAB_SWITCH-3;f6:48:d6:a3:f0:b1;192.168.128.130;Apple iPad;f6:48:d6:a3:f0:b1
+My_Network;1st Floor;LAB_SWITCH-6;d0:81:7a:b4:da:22;192.168.128.42;Mac OS X 10.14;d0:81:7a:b4:da:22
+My_Network;2nd Floor;LAB_SWITCH-3;34:08:bc:93:0f:4e;192.168.128.44;Apple iPhone;34:08:bc:93:0f:4e
+My_Network;2nd Floor;LAB_SWITCH-3;c0:d2:f3:f1:f9:e1;192.168.128.7;BATM VoIP adapter;c0:d2:f3:f1:f9:e1
+My_Network;Basement;LAB_SWITCH-7;ac:04:0b:13:bc:f9;192.168.128.239;Android;ac:04:0b:13:bc:f9
+My_Network;Office Switch;LAB_SWITCH-4;c4:f7:d3:d4:39:81;192.168.128.230;Cisco/Linksys Router;c4:f7:d3:d4:39:81
+My_Network;2nd Floor;LAB_SWITCH-3;7e:e3:40:ab:0e:20;192.168.128.33;Apple iPhone;7e:e3:40:ab:0e:20
+My_Network;2nd Floor;LAB_SWITCH-3;0c:19:f8:ea:29:c8;192.168.128.82;Apple iPhone;0c:19:f8:ea:29:c8
+My_Network;1st Floor;LAB_SWITCH-6;f6:00:e3:09:cc:30;192.168.128.63;Apple iPad;f6:00:e3:09:cc:30
+My_Network;2nd Floor;LAB_SWITCH-3;f8:34:b8:8b:9d:98;192.168.128.22;Linux;f8:34:b8:8b:9d:98
+My_Network;Basement;LAB_SWITCH-2;30:c7:bf:98:f4:3d;192.168.128.119;Cisco/Linksys Router;30:c7:bf:98:f4:3d
+My_Network;1st Floor;LAB_SWITCH-9;08:03:81:88:d2:fc;192.168.128.43;BATM VoIP adapter;08:03:81:88:d2:fc
+My_Network;Office Switch;LAB_SWITCH-1;22:0d:33:eb:7b:71;192.168.128.171;Apple iPhone;22:0d:33:eb:7b:71
+My_Network;Basement;LAB_SWITCH-2;98:46:0a:ed:a3:ee;192.168.128.124;Apple iPhone;98:46:0a:ed:a3:ee
+My_Network;1st Floor;LAB_SWITCH-6;00:fc:8b:f1:8e:d0;192.168.128.31;Android;00:fc:8b:f1:8e:d0
+My_Network;2nd Floor;LAB_SWITCH-3;30:c7:bf:98:fb:b2;192.168.128.183;Cisco/Linksys Router;30:c7:bf:98:fb:b2
+My_Network;2nd Floor;LAB_SWITCH-3;00:fc:8b:ba:47:9e;192.168.128.20;Android;00:fc:8b:ba:47:9e
+My_Network;3th Floor;LAB_SWITCH-10;00:fc:8b:83:69:98;192.168.128.26;Android;00:fc:8b:83:69:98
+My_Network;3th Floor;LAB_SWITCH-10;dc:f3:03:e0:c4:b9;192.168.128.210;iOS;dc:f3:03:e0:c4:b9
+My_Network;3th Floor;LAB_SWITCH-10;ac:13:f4:70:3f:37;192.168.128.223;iOS;ac:13:f4:70:3f:37
+My_Network;3th Floor;LAB_SWITCH-10;00:fc:8b:2a:83:dd;192.168.128.190;Android;00:fc:8b:2a:83:dd
+My_Network;3th Floor;LAB_SWITCH-10;00:17:88:4b:9c:42;192.168.128.31;linux;00:17:88:4b:9c:42
+My_Network;3th Floor;LAB_SWITCH-10;c2:3f:ea:47:7e:ef;192.168.128.12;linux;c2:3f:ea:47:7e:ef
+My_Network;3th Floor;LAB_SWITCH-10;24:4b:03:30:af:d1;192.168.128.78;Routers and APs;24:4b:03:30:af:d1
+My_Network;3th Floor;LAB_SWITCH-10;dc:68:eb:63:3e:ad;192.168.128.49;Nokia;dc:68:eb:63:3e:ad
+My_Network;3th Floor;LAB_SWITCH-10;44:63:0d:e3:4f:2c;192.168.128.128;Generic Linux;44:63:0d:e3:4f:2c
+My_Network;3th Floor;LAB_SWITCH-10;00:33:da:30:39:73;169.234.118.33;Routers and APs;00:33:da:30:39:73
+My_Network;3th Floor;LAB_SWITCH-10;78:e1:03:2b:be:04;192.168.128.19;Android;78:e1:03:2b:be:04
+My_Network;3th Floor;LAB_SWITCH-10;e0:33:3d:10:3e:b2;192.168.128.99;Meraki OS;e0:33:3d:10:3e:b2
+My_Network;3th Floor;LAB_SWITCH-10;a4:77:33:09:16:f9;192.168.128.122;Android;a4:77:33:09:16:f9
+My_Network;3th Floor;LAB_SWITCH-10;e0:33:3d:c0:72:d8;192.168.128.16;Meraki OS;e0:33:3d:c0:72:d8
+My_Network;3th Floor;LAB_SWITCH-10;28:39:3e:33:b7:76;192.168.128.238;Android;28:39:3e:33:b7:76
+My_Network;3th Floor;LAB_SWITCH-10;d4:c9:ef:01:18:2b;192.168.128.203;HP Printer;d4:c9:ef:01:18:2b
+My_Network;3th Floor;LAB_SWITCH-10;e0:33:3d:73:03:4d;192.168.128.193;Cisco Meraki;e0:33:3d:73:03:4d
+My_Network;3th Floor;LAB_SWITCH-10;18:b4:30:d2:3f:3c;192.168.128.30;Raspberry Pi;18:b4:30:d2:3f:3c
+My_Network;3th Floor;LAB_SWITCH-10;c0:33:3e:81:37:92;192.168.128.234;Microsoft XBOX;c0:33:3e:81:37:92
+My_Network;3th Floor;LAB_SWITCH-10;e0:33:3d:c0:76:f4;192.168.128.202;Meraki OS;e0:33:3d:c0:76:f4
+My_Network;3th Floor;LAB_SWITCH-10;32:da:94:83:48:36;192.168.128.169;iOS;32:da:94:83:48:36
+My_Network;3th Floor;LAB_SWITCH-10;0c:8d:db:b0:c2:dd;192.168.128.4;Meraki OS;0c:8d:db:b0:c2:dd
+My_Network;3th Floor;LAB_SWITCH-10;0c:8d:db:b0:c3:43;192.168.128.3;Meraki OS;0c:8d:db:b0:c3:43
+My_Network;3th Floor;LAB_SWITCH-11;f0:78:07:df:db:6b;10.206.148.64;Apple iPhone;f0:78:07:df:db:6b
+My_Network;2nd Floor;LAB_SWITCH-12;34:36:fe:a3:db:7b;192.168.128.7;Meraki OS;34:36:fe:a3:db:7b
+My_Network;3th Floor;LAB_SWITCH-10;8c:83:90:bc:24:33;192.168.128.23;iOS;8c:83:90:bc:24:33
+My_Network;3th Floor;LAB_SWITCH-10;f6:48:d6:a3:f0:b1;192.168.128.130;iOS;f6:48:d6:a3:f0:b1
+My_Network;3th Floor;LAB_SWITCH-10;d0:81:7a:b4:da:22;192.168.128.42;Mac OS X;d0:81:7a:b4:da:22
+My_Network;3th Floor;LAB_SWITCH-10;34:08:bc:93:0f:4e;192.168.128.44;iOS;34:08:bc:93:0f:4e
+My_Network;3th Floor;LAB_SWITCH-10;c0:d2:f3:f1:f9:e1;192.168.128.7;BATM VoIP adapter;c0:d2:f3:f1:f9:e1
+My_Network;3th Floor;LAB_SWITCH-10;c4:f7:d3:d4:39:81;192.168.128.230;Cisco IOS;c4:f7:d3:d4:39:81
+My_Network;3th Floor;LAB_SWITCH-10;7e:e3:40:ab:0e:20;192.168.128.33;Linux;7e:e3:40:ab:0e:20
+My_Network;3th Floor;LAB_SWITCH-10;0c:19:f8:ea:29:c8;192.168.128.82;iOS;0c:19:f8:ea:29:c8
+My_Network;3th Floor;LAB_SWITCH-10;f6:00:e3:09:cc:30;192.168.128.63;iOS;f6:00:e3:09:cc:30
+My_Network;3th Floor;LAB_SWITCH-10;ac:17:c8:24:4f:68;192.168.128.1;Meraki OS;ac:17:c8:24:4f:68
+My_Network;3th Floor;LAB_SWITCH-10;e0:33:3d:c0:73:36;192.168.128.17;Meraki OS;e0:33:3d:c0:73:36
+My_Network;3th Floor;LAB_SWITCH-10;e0:33:3d:d2:48:3f;192.168.128.90;Meraki OS;e0:33:3d:d2:48:3f
+My_Network;3th Floor;LAB_SWITCH-10;f8:34:b8:8b:9d:98;192.168.128.22;Linux;f8:34:b8:8b:9d:98
+My_Network;3th Floor;LAB_SWITCH-10;e0:33:3d:d2:4b:4c;192.168.128.206;Meraki OS;e0:33:3d:d2:4b:4c
+My_Network;3th Floor;LAB_SWITCH-10;34:36:fe:88:c2:f8;192.168.128.8;Meraki OS;34:36:fe:88:c2:f8
+My_Network;3th Floor;LAB_SWITCH-10;08:03:81:88:d2:fc;192.168.128.43;BATM VoIP adapter;08:03:81:88:d2:fc
+My_Network;3th Floor;LAB_SWITCH-10;e0:33:3d:c0:3e:2e;192.168.128.13;Meraki OS;e0:33:3d:c0:3e:2e
+My_Network;3th Floor;LAB_SWITCH-10;22:0d:33:eb:7b:71;192.168.128.171;Linux;22:0d:33:eb:7b:71
+My_Network;3th Floor;LAB_SWITCH-10;98:46:0a:ed:a3:ee;192.168.128.124;iOS;98:46:0a:ed:a3:ee
+My_Network;3th Floor;LAB_SWITCH-10;00:fc:8b:f1:8e:d0;192.168.128.31;Android;00:fc:8b:f1:8e:d0
+My_Network;3th Floor;LAB_SWITCH-10;30:c7:bf:98:fb:b2;192.168.128.66;Cisco/Linksys Router;30:c7:bf:98:fb:b2
+My_Network;3th Floor;LAB_SWITCH-10;00:fc:8b:ba:47:9e;192.168.128.20;Android;00:fc:8b:ba:47:9e
